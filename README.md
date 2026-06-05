@@ -1,9 +1,9 @@
 # Hi, I'm Hanni Vinay 👋
 
-MCA student at PES University, Bengaluru. I'm learning to build backend systems — APIs, databases, the stuff that runs behind the screen.
-
-Still early in the journey, but I take it seriously.
-
+Student at PES University, Bengaluru.
+I'm learning to build backend systems — APIs, databases, the stuff that runs behind the screen.
+Curious about how things work under the hood — so I break them, figure out why, and build them better.
+The backend made sense to me before the frontend ever did.
 ---
 
 ## 🛠️ What I Work With
